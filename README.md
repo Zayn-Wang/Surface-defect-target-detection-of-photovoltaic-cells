@@ -1,5 +1,9 @@
 # Surface-defect-target-detection-of-photovoltaic-cells
 We will gradually open the source code of photovoltaic cell defect detection for improved YOLOX model.
+
+**Please note that YOLOX model is the basis of the source code, please check the link: 
+https://github.com/bubbliiiing/yolox-pytorch
+
 ## Data Availability
 **The following information was supplied regarding data availability:**
 Dataset is available at http://aihebut.com/col.jsp?id=118. 
